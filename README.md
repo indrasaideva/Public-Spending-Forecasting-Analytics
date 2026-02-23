@@ -110,17 +110,6 @@ pip install pandas numpy scikit-learn statsmodels plotly matplotlib scipy pyyaml
 jupyter notebook Fiscal_Risk_Europe_Complete.ipynb
 ```
 
-**Render with Quarto:**
-```bash
-# HTML report
-quarto render Fiscal_Risk_Europe_Complete.qmd --to html
-
-# PDF
-quarto render Fiscal_Risk_Europe_Complete.qmd --to pdf
-
-# RevealJS slides
-quarto render Fiscal_Risk_Europe_Complete.qmd --to revealjs
-```
 
 ---
 
